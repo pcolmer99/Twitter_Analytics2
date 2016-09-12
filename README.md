@@ -10,6 +10,8 @@ a 'Colmer' score.  This score measures the effectiveness of your tweets.  The fi
 
 least effective tweets at the bottom.  The output file is called: Updated_TwitterAnalytics_MusicComposer1.csv
 
+You will also need to change the working drive to something that suits you, using the setwd() command.
+
 If you find this valuable, please follow me on Twitter @MusicComposer1
 
 Enjoy
