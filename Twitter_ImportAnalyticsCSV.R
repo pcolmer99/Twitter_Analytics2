@@ -1,13 +1,9 @@
 ## This code reads the CSV file extracted from twitter analytics and 
-##  calculates your most valueable tweets using the impressions and engagement
-##  metrics.
+##  calculates your most valueable tweets using a 'Colmer' score. 
 
 ## Paul Colmer 2016
 
-## 2 hrs
-
-## Must have Java installed to work as XLConnect and XLConnectJars are written in Java
-## Installed Java V8 Update 71
+## 3 hrs
 
 ## Setup Libraries
 
