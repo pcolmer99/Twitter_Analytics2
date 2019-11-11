@@ -1,5 +1,7 @@
 # Twitter Analytics
 
+[![Build Status](https://dev.azure.com/alctraining/SAFe%20Initiative/_apis/build/status/pcolmer99.Twitter_Analytics2?branchName=master)](https://dev.azure.com/alctraining/SAFe%20Initiative/_build/latest?definitionId=1&branchName=master)
+
 Hi Readers,
 
 My name is Paul Colmer. This R code will take your Twitter Analytics CSV file as an input.  If you are using this code unchanged,
